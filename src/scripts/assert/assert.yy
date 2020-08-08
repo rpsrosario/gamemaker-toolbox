@@ -2,8 +2,8 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "modules",
-    "path": "folders/modules.yy",
+    "name": "toolbox",
+    "path": "folders/toolbox.yy",
   },
   "resourceVersion": "1.0",
   "name": "assert",
