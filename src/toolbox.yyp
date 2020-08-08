@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"extend_with","path":"scripts/extend_with/extend_with.yy",},"order":1,},
     {"id":{"name":"assert","path":"scripts/assert/assert.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
   ],
